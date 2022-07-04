@@ -1,0 +1,120 @@
+.width-half{
+    width: 50%;
+}
+.logo{
+    display: flex;
+ 
+}
+.width-half img{
+   width:  80%;
+}
+ span{
+    color: blueviolet;
+   
+    
+ }
+ h1{
+    font-size:  50px;
+    font-weight: 900px;
+    text-transform: uppercase;
+ }
+ body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+
+ }
+ h2{
+  
+font-size: 30px;
+font-weight: 700px;
+text-transform: uppercase;
+margin-bottom: 70px;
+ }
+ .eid{
+    padding-left: 50px;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    background-color: rgb(224, 193, 193);
+    background-repeat: no-repeat;
+
+ }
+ .btn{
+    font-size: bold;
+    background-color: rgb(159, 169, 21);
+    border-radius: 10px;
+    margin: 10px 20px;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 700;
+    
+   
+
+   
+ }
+ 
+ 
+ 
+ 
+ .card{
+    display: flex;
+ 
+ padding: 30px;
+   width: 100%;
+    
+ }
+ .first-card{
+    box-shadow: 15px 13px 20px 24px  gray;
+    justify-content: space-evenly;
+border-radius: 15px;
+padding: 40px;
+border-top: 8px solid tomato;
+ 
+ 
+ 
+background-color: black;
+color: white;
+
+ 
+ 
+ }
+ .second-card{
+    box-shadow: 15px 10px 20px 24px gray;
+     justify-content: space-evenly;
+    border-radius: 15px;
+    padding: 40px;
+    border-top: 8px solid tomato;
+    background-color: black;
+    color: white;
+    margin-left: 15px;
+   
+   
+    
+ }
+ .first-card:hover{
+    color: rgb(206, 206, 28);
+    margin-top: -25px;
+ }
+ .second-card:hover{
+    color: rgb(9, 35, 230);
+    margin-top: -25px; 
+ }
+ footer{
+    font-size: bold;
+    font-weight: 700;
+    text-align: center;
+ }
+ h2:hover{
+    color: rgb(191, 40, 40);
+ 
+ }
+ body{
+    margin: 0;
+    padding: 0%;
+ }
+ footer:hover{
+    color: rgb(207, 73, 69);
+ }
+
+
